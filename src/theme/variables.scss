@@ -41,7 +41,23 @@ $colors: (
   dark:       #222
 );
 
+// class to center text
+.centered{
+  text-align: center;
+}
 
+// color of tabs menu
+.tabs-md .tab-button {
+  color: #f5fffa !important;
+}
+// color of tabs menu when selected
+.tabs-md .tab-button[aria-selected=true] {
+  color: #dd7900 !important;
+}
+
+.marginTopNavBar{
+    margin-top:50px;
+}
 // App iOS Variables
 // --------------------------------------------------
 // iOS only Sass variables can go here
