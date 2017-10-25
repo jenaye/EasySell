@@ -14,3 +14,7 @@ ionic serve
 we build an API with api-platform 
 
 made with love by jenaye and qcayoh
+
+# Contribution 
+
+Fork repo, then create branch and PR 
