@@ -1,0 +1,33 @@
+page-ficheproduit {
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .html, body {
+    height: 100%;
+  }
+
+  .gauche {
+    width: 60%;
+    float: left;
+  }
+
+  .droite {
+    width: 40%;
+    float: left;
+  }
+
+  .plein {
+    width: 100%;
+  }
+
+  .margin {
+    margin-top: 20px;
+  }
+
+}
+
+
+
